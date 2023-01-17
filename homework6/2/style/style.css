@@ -1,0 +1,21 @@
+.goods{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+img{
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+
+#basket {
+    display: flex;
+    }
+
+
+button{
+    margin: 20px;
+}
